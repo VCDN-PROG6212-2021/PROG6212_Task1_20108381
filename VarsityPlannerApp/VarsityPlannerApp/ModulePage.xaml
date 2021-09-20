@@ -1,0 +1,55 @@
+﻿<Page x:Class="VarsityPlannerApp.ModulePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:VarsityPlannerApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="560"
+      Title="ModulePage">
+
+
+    <Page.Resources>
+        <SolidColorBrush x:Key="txtColour" Color="#007acc"/>
+
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Your Modules" Foreground="{StaticResource txtColour}" Background="Transparent" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <StackPanel Grid.Row="1"  Height="20"  VerticalAlignment="Top" HorizontalAlignment="Left" Width="220" Margin="60,45,0,0" >
+
+            <TextBox x:Name="txbCode" FontStyle="Italic" BorderThickness="0" Width="220" Height="18" Background="Transparent " Text="Module Code" Foreground="{StaticResource txtColour}" GotFocus="txbCode_GotFocus" LostFocus="txbCode_LostFocus" TextChanged="txbCode_TextChanged"  />
+            <Canvas x:Name="cvCode" Height="2" Width="220" Background="{StaticResource txtColour}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1"  Height="20"  VerticalAlignment="Top" HorizontalAlignment="Left" Width="220" Margin="60,80,0,0" >
+
+            <TextBox x:Name="txbName" FontStyle="Italic" BorderThickness="0" Width="220" Height="18" Background="Transparent " Text="Module Name" Foreground="{StaticResource txtColour}" GotFocus="txbName_GotFocus" LostFocus="txbName_LostFocus" TextChanged="txbName_TextChanged"  />
+            <Canvas x:Name="cvName" Height="2" Width="220" Background="{StaticResource txtColour}"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1"  Height="20"  VerticalAlignment="Top" HorizontalAlignment="Left" Width="220" Margin="60,115,0,0" >
+
+            <TextBox x:Name="txbCredits" FontStyle="Italic" BorderThickness="0" Width="220" Height="18" Background="Transparent " Text="Module Credits" Foreground="{StaticResource txtColour}" GotFocus="txbCredits_GotFocus" LostFocus="txbCredits_LostFocus" TextChanged="txbCredits_TextChanged"  />
+            <Canvas x:Name="cvCredits" Height="2" Width="220" Background="{StaticResource txtColour}"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1"  Height="20"  VerticalAlignment="Top" HorizontalAlignment="Left" Width="220" Margin="60,150,0,0" >
+            <TextBox x:Name="txbWeeklyHours" FontStyle="Italic" BorderThickness="0" Width="220" Height="18" Background="Transparent " Text="Class Hours per week" Foreground="{StaticResource txtColour}" LostFocus="txbWeeklyHours_LostFocus" GotFocus="txbWeeklyHours_GotFocus" TextChanged="txbWeeklyHours_TextChanged" />
+            <Canvas x:Name="cvWeeklyHours" Height="2" Width="220" Background="{StaticResource txtColour}"/>
+        </StackPanel>
+        <TextBlock Text="Add Module Here:" Foreground="{StaticResource txtColour}" Background="Transparent" FontSize="14" HorizontalAlignment="Left" Margin="28,10,0,0" Grid.Row="1"  TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock Text="Remove Module Here:" Foreground="{StaticResource txtColour}" Background="Transparent" FontSize="14" HorizontalAlignment="Left" Margin="28,220,0,0" Grid.Row="1"  TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+        <Button x:Name="btnAdd" Content="Add" Background="Transparent" Foreground="{StaticResource txtColour}" FontSize="13" HorizontalAlignment="Left" Margin="230,184,0,0" Grid.Row="1" VerticalAlignment="Top" Width="40" Height="20" Click="btnAdd_Click" />
+        <ComboBox Name="cmbModules" Style="{StaticResource {x:Static ToolBar.ComboBoxStyleKey}}" Background="Transparent" Foreground="{StaticResource txtColour}" HorizontalAlignment="Left" Margin="140,263,0,0" Grid.Row="1" VerticalAlignment="Top" Width="95" SelectionChanged="ComboBox_SelectionChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="60,263,0,0" Grid.Row="1" Text="Module Code:" Foreground="{StaticResource txtColour}"  TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Button x:Name="btnRemove" Content="Remove" Background="Transparent" Foreground="{StaticResource txtColour}" FontSize="13" HorizontalAlignment="Left" Margin="230,296,0,0" Grid.Row="1" VerticalAlignment="Top" Click="btnRemove_Click"  />
+        <TextBox x:Name="txbDetails" Background="Transparent" Foreground="{StaticResource txtColour}" BorderThickness="0" HorizontalAlignment="Left" Margin="297,10,0,0" Grid.Row="1" Text="Details" TextWrapping="Wrap" VerticalAlignment="Top" Width="263" Height="273" TextChanged="txbDetails_TextChanged"/>
+
+
+    </Grid>
+</Page>

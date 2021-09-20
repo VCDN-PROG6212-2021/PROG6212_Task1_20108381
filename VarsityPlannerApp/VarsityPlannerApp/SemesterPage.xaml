@@ -1,0 +1,38 @@
+﻿<Page x:Class="VarsityPlannerApp.SemesterPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:VarsityPlannerApp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="560"
+      Title="SemesterPage"
+    >
+
+
+
+    <Page.Resources>
+        <SolidColorBrush x:Key="txtColour" Color="#007acc"/>
+
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Semester Details" Foreground="{StaticResource txtColour}" Background="Transparent" FontSize="18" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <StackPanel Grid.Row="1"  Height="20"  VerticalAlignment="Top" HorizontalAlignment="Left" Width="220" Margin="60,10,0,0" >
+
+            <TextBox x:Name="txbWeeks" FontStyle="Italic" BorderThickness="0" Width="220" Height="18" Background="Transparent " Text="Weeks in Semester" Foreground="{StaticResource txtColour}" LostFocus="txbWeeks_LostFocus" TextChanged="txbWeeks_TextChanged" GotFocus="txbWeeks_GotFocus" />
+            <Canvas x:Name="cvWeeks" Height="2" Width="220" Background="{StaticResource txtColour}"/>
+        </StackPanel>
+        <DatePicker  x:Name="datePickerSemStart" Text="Semester Start" BorderBrush="{StaticResource txtColour}" Height="25" HorizontalAlignment="Left" BorderThickness="0" Background="Transparent" Foreground="{StaticResource txtColour}" Margin="180,55,0,0"  VerticalAlignment="Top" Width="115" Grid.Row="1" />
+        <TextBox HorizontalAlignment="Left" Background="Transparent" BorderThickness="0" Foreground="{StaticResource txtColour}" Margin="60,59,0,0" Grid.Row="1" Text="Semester Start Date:" TextWrapping="Wrap" VerticalAlignment="Top" Width="115" TextChanged="TextBox_TextChanged"/>
+        <Button Content="Save" Background="Transparent" Foreground="{StaticResource txtColour}" FontSize="13" HorizontalAlignment="Left" Margin="476,326,0,0" Grid.Row="1" VerticalAlignment="Top" Width="49" Click="Button_Click"/>
+        <TextBox x:Name="txbDetails" Background="Transparent" Foreground="{StaticResource txtColour}" BorderThickness="0" HorizontalAlignment="Left" Margin="315,10,0,0" Grid.Row="1" Text="Details" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" Height="104"/>
+
+    </Grid>
+</Page>

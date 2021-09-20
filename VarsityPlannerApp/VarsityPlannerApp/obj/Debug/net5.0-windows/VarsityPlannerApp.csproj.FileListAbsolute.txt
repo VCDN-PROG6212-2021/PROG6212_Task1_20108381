@@ -1,0 +1,70 @@
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ModulePage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\SemesterPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\WorkPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp_MarkupCompile.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp_MarkupCompile.lref
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.exe
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.deps.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.runtimeconfig.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\ref\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerLib.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerLib.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ModulePage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\SemesterPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\WorkPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.g.resources
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.csproj.CopyComplete
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ref\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ShareWindow.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ShareWindow.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\Email.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\Email.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.exe
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.deps.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.runtimeconfig.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\ref\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerLib.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\net5.0-windows\VarsityPlannerLib.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\Email.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ModulePage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\SemesterPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ShareWindow.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\WorkPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp_MarkupCompile.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp_MarkupCompile.lref
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\Email.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ModulePage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\SemesterPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ShareWindow.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\WorkPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.g.resources
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.csproj.CopyComplete
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\ref\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\net5.0-windows\VarsityPlannerApp.genruntimeconfig.cache

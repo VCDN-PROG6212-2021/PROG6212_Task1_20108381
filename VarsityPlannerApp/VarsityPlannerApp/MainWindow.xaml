@@ -1,0 +1,38 @@
+﻿<Window x:Class="VarsityPlannerApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VarsityPlannerApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="700"
+        Background="#252526"  
+        ResizeMode="NoResize"      
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="8*"/>
+
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Work Planner" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="Azure" FontSize="22" />
+        <StackPanel Grid.Row="1" Grid.Column="0">
+            <Button x:Name="btnSem" Foreground="#007acc" Background="Transparent" BorderThickness="0" Content="Semester" FontSize="15" Height="35" Click="Button_Click"/>
+            <Button x:Name="btnMod" Foreground="#007acc" Background="Transparent"  BorderThickness="0" Content="Modules" FontSize="15" Height="35" Click="Button_Click_1"/>
+            <Button x:Name="btnWork" Foreground="#007acc" Background="Transparent"  BorderThickness="0" Content="Work" FontSize="15" Height="35" Click="btnWork_Click"/>
+        </StackPanel>
+
+        <Frame x:Name="MainFrame" Height="450" Width="560"  NavigationUIVisibility="Hidden" Background="#3e3e42" Grid.Column="1" Grid.RowSpan="2"/>
+        <Button x:Name="btnClose" Content="Close" Foreground="Azure" Background="Transparent" HorizontalAlignment="Left" Margin="5,369,0,0" Grid.Row="1" VerticalAlignment="Top" Height="21" Width="60" Click="btnClose_Click"/>
+        <Button x:Name="btnShare" Content="Share" Foreground="Azure" Background="Transparent" HorizontalAlignment="Left" Margin="75,369,0,0" Grid.Row="1" VerticalAlignment="Top" Height="21" Width="60" Click="btnShare_Click" />
+
+    </Grid>
+
+</Window>

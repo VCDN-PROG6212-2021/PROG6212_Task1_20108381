@@ -1,0 +1,125 @@
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.exe
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.deps.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.lref
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.g.resources
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.baml
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.exe
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.deps.json
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.json
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.dev.json
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csprojAssemblyReference.cache
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.g.cs
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.g.cs
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.g.cs
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.cache
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.lref
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.baml
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.baml
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.baml
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.g.resources
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfoInputs.cache
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfo.cs
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csproj.CoreCompileInputs.cache
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+E:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.genruntimeconfig.cache
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.exe
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.deps.json
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.json
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.dev.json
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csprojAssemblyReference.cache
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.g.cs
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.g.cs
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.g.cs
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.cache
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.lref
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.baml
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.baml
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.baml
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.g.resources
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfoInputs.cache
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfo.cs
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csproj.CoreCompileInputs.cache
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+D:\Sem 2\PROG\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.lref
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.exe
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.deps.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.g.resources
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\New folder\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.exe
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.deps.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\bin\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp_MarkupCompile.lref
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\ModulePage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\SemesterPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\WorkPage.baml
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.g.resources
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.dll
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\Second Semester\Prog\19 SEPTEMBER\VarsityPlannerApp\VarsityPlannerApp\obj\Debug\netcoreapp3.1\VarsityPlannerApp.genruntimeconfig.cache
